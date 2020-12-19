@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://twitter.com/jerimkaura">
-    <img src="https://img.shields.io/twitter/follow/jerimkaura?jerimkaura?color=green&logo=github" alt="twitter" />
+    <img src="https://img.shields.io/twitter/follow/jerimkaura?jerimkaura?color=green&logo=twitter" alt="twitter" />
   </a>
   <a href="https://github.comjerimkaura/jerimkaurar">
     <img src="https://komarev.com/ghpvc/?username=jerimkaura" alt="page views" />
