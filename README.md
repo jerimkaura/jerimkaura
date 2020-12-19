@@ -11,8 +11,6 @@
   </a>
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=jerimkaura.jerimkaura)
-[![Github](https://img.shields.io/github/followers/jerimkaura?label=Follow&style=social)](https://github.com/jerimkaura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=tokyonight)
 
