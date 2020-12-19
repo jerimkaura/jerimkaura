@@ -12,10 +12,11 @@
   <a href="https://reddit.com/u/macropower">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  <a href="https://github.com/jerimkaura?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jerimkaura?color=green&logo=github">
   </a>
 </p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=jerimkaura.jerimkaura)
