@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=jerimkaura" alt="page views" />
   </a>
   <a href="https://www.reddit.com/user/Jerim_Kaura">
-    <img alt="Reddit User Jerim Kaura" src="https://img.shields.io/reddit/user-karma/combined/Jerim_kaura?label=karma&logo=reddit">
+    <img alt="Reddit User Jerim Kaura" src="https://img.shields.io/reddit/user-karma/combined/Jerim_kaura?label=Jerim&logo=reddit">
   </a>
   <a href="https://github.com/jerimkaura?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/jerimkaura?color=green&logo=github">
