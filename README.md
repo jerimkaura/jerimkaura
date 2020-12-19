@@ -4,12 +4,13 @@
     <img src="https://komarev.com/ghpvc/?username=jerimkaura" alt="page views" />
   </a>
   <a href="https://www.reddit.com/user/Jerim_Kaura">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Jerim_kaura?label=karma&logo=reddit">
+    <img alt="Reddit User Jerim Kaura" src="https://img.shields.io/reddit/user-karma/combined/Jerim_kaura?label=Jerry Kaura&logo=reddit">
   </a>
   <a href="https://github.com/jerimkaura?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/jerimkaura?color=green&logo=github">
   </a>
 </p>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=jerimkaura.jerimkaura)
 [![Github](https://img.shields.io/github/followers/jerimkaura?label=Follow&style=social)](https://github.com/jerimkaura)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=tokyonight)
