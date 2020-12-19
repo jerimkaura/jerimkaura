@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently learning **Go**
+- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=jerimkaura.jerimkaura)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=jerimkaura.jerimkaura)
+[![Github](https://img.shields.io/github/followers/jerimkaura?label=Follow&style=social)](https://github.com/jerimkaura)
