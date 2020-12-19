@@ -1,15 +1,10 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=jerimkaura.jerimkaura)
 [![Github](https://img.shields.io/github/followers/jerimkaura?label=Follow&style=social)](https://github.com/jerimkaura)
 
+## Favourite Tech
   <table>
   <tr>
     <td align="center" width="96">
