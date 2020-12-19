@@ -3,12 +3,6 @@
   <a href="https://github.comjerimkaura/jerimkaurar">
     <img src="https://komarev.com/ghpvc/?username=jerimkaura" alt="page views" />
   </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://www.reddit.com/user/Jerim_Kaura">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Jerim_kaura?label=karma&logo=reddit">
   </a>
@@ -16,11 +10,11 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/jerimkaura?color=green&logo=github">
   </a>
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=jerimkaura.jerimkaura)
 [![Github](https://img.shields.io/github/followers/jerimkaura?label=Follow&style=social)](https://github.com/jerimkaura)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&theme=tokyonight)
+
 
 ## Favourite Tech
 > Tools, languages, and other things that I like to work with.
