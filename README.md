@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Jerim Kaura👋
 
 <p align="left">
   <a href="https://twitter.com/jerimkaura">
