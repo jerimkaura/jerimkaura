@@ -20,12 +20,10 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=vue">
   </a>
   <a href="https://github.com/jerimkaura/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&theme=vue"/>
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerimkaura&theme=vue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimkaura&show_icons=true&theme=vue)
 
 **Languages and Tools:**  
 
